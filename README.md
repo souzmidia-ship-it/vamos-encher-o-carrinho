@@ -4,7 +4,7 @@ Análise de cerca de **479 mil pedidos** e **4,5 milhões de itens** da Instacar
 
 As perguntas são de negócio: **quando** o cliente compra, **de quanto em quanto tempo** ele volta e **o que** ele compra, recompra e coloca primeiro no carrinho.
 
-![Pedidos por hora do dia](images/pedidos_por_hora.png)
+![Pedidos por hora do dia](pedidos_por_hora.png)
 
 ## Resultado em 30 segundos
 
